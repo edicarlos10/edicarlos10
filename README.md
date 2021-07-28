@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @edicarlos10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edicarlos10&count_private=true&layout=compact&theme=gotham&border_radius=10&langs_count=10&card_width=446)
+![Edi GitHub stats](https://github-readme-stats.vercel.app/api?username=edicarlos10&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&border_radius=10)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edicarlos10&layout=compact&theme=gotham&border_radius=10&langs_count=10&card_width=446)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edicarlos10&theme=gotham)
 
 <!---
 edicarlos10/edicarlos10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
