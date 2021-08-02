@@ -4,7 +4,7 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edicarlos10&theme=gotham)
 
-!.[My Stack OverFlow Profile]. (https://stackoverflow.com/users/6136603/edi?tab=profile)
+My Stack OverFlow Profile -> https://stackoverflow.com/users/6136603/edi?tab=profile
 
 <!---
 edicarlos10/edicarlos10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
