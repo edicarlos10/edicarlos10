@@ -3,9 +3,8 @@
   <a href="https://github.com/edicarlos10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edicarlos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edicarlos10&layout=compact&langs_count=7&theme=dark"/>
-</div>
- <p>Some Skills:</p>
-<div style="display: inline_block"><br>
+</div> 
+<div style="display: inline_block"><p>##Some Skills:</p><br>
   <img align="center" alt="Edi-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Edi-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  <img align="center" alt="Edi-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
